@@ -4,7 +4,7 @@
 
 ![Completed Git exercises](<Screenshot 2024-02-20 004619.png>)
 
-Added knowledge of what really happens when using git commands commit, branch, and checkout.
+Added knowledge of what really happens when using git commands 'commit', branch, and checkout.
 Briefly earned rebase and cherry-pick.
 
 ## day-2
