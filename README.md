@@ -16,6 +16,11 @@ for rearranging and re-ordering commits and branches.
 
 ## day-3
 
+![Completed Git exercises 3](<Screenshot 2024-02-27 180432.png>)
+
+Completing these exercises built upon my knowledge of git pull and git push,  
+utiliing source:destination command syntax to commit + merge branches more efficiently
+
 ---
 
 ## day-4
